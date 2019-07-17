@@ -26,7 +26,6 @@ movies <-
 
 
 # --- Analysis -----------------------------------------------------------------
-#report number of movies
 movies %>% 
   nrow %>% 
   paste("The number of movies in the collection is:", .) %>% 
