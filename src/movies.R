@@ -16,7 +16,7 @@ library(lubridate)
 
 # --- Load data ----------------------------------------------------------------
 movies <- 
-  as_tibble(read.csv("data\\processed\\movies.csv", stringsAsFactors=FALSE))
+  as_tibble(read.csv("data\\movies.csv", stringsAsFactors=FALSE))
 
 
 # --- Preprocess ---------------------------------------------------------------
