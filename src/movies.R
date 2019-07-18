@@ -57,6 +57,5 @@ movies %>%
 print("Tom's favourite movie is 'The Big Lebowski'")
 
 # TODO Declare your own favourite with a print statement here...
-print("newline")
 
 # --- End ----------------------------------------------------------------------
